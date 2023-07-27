@@ -52,7 +52,7 @@ Observação: pode ser necessário utilizar outros comandos para criar o ambient
 
 Após a configuração, basta utilizar o seguinte comando para iniciar o projeto:
 
-    python main.py
+    python app.py
 
 ## Testes
 
